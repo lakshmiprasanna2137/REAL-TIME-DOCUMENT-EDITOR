@@ -16,3 +16,5 @@ A Real-Time Collaborative Document Editor is a web application that allows multi
 
 *OUTPUT* :
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ad9daa09-7039-4610-9992-758c3cffb3a8" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/27415fc8-eea5-4130-b80d-b74aeb2b9cf7" />
