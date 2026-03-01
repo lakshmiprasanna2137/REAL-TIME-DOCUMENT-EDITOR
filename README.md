@@ -13,3 +13,6 @@
 *MENTOR* : NEELA SANTHOSH KUMAR
 
 A Real-Time Collaborative Document Editor is a web application that allows multiple users to edit the same document simultaneously. Changes made by one user are instantly visible to others without refreshing the page. It uses technologies like WebSockets or Socket.io to synchronize content in real time. This application improves teamwork and productivity by enabling seamless online collaboration.
+
+*OUTPUT* :
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ad9daa09-7039-4610-9992-758c3cffb3a8" />
